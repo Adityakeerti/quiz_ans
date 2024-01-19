@@ -1,0 +1,60 @@
+body{
+    background-color: rgb(5, 2, 26);
+}
+
+.vid{
+    display: block;
+    border: 5px solid rgb(128, 212, 212);
+    border-radius: 10px
+    ;
+}
+
+.audio{
+    display: block;
+    border: 6px solid rgb(150, 219, 247);
+    border-radius: 32px;
+
+}
+
+#audiotitle{
+border: 2px solid rgb(83, 162, 242);
+border-radius: 3px;
+color: azure;
+display: inline;
+padding: 2px;
+}
+
+#mainhead{
+    display: inline;
+    background-color: rgb(10, 132, 232);
+    color: white;
+    text-align: center;
+    border-radius: 10px;
+    border: 2px solid rgb(236, 183, 103);
+    padding: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#mainhead2{
+    display: inline;
+    background-color: rgb(10, 132, 232);
+    color: white;
+    text-align: center;
+    border-radius: 10px;
+    border: 2px solid rgb(236, 183, 103);
+    padding: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#vidtitle{
+    display: inline;
+    background-color: rgb(5, 215, 226);
+    color: rgb(255, 255, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 2px solid black;
+    border-color: antiquewhite;
+    text-align: left;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    padding: 2px;
+}
+
